@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gaming
 - 🌱 I’m currently learning Lua/Java
 - 💞️ I’m looking to collaborate on Nothing atm
-- 📫 How to reach me Juhstxn#8581
+- 📫 How to reach me Discord: Juhstxn
 
 <!---
 Juhstxn/Juhstxn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
